@@ -8,7 +8,7 @@ GPIO is fully working, i2c and Spi not testet yet!
 
 
 ## Download
-    git clone https://github.com/xpertsavenue/WiringOP-Zero.git
+    git clone https://github.com/NaberDmitry/WiringOP-Zero.git
 ## Installation
     cd WiringOP-Zero
     chmod +x ./build
